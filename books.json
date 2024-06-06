@@ -1,0 +1,23 @@
+[
+  {
+    "isbn": "978-1982143614",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "reviews": []
+  },
+  {
+    "isbn": "978-0142437202",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "reviews": []
+  },
+  {
+    "isbn": "978-0743273565",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": 1951,
+    "reviews": []
+  }
+]
